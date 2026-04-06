@@ -4,7 +4,7 @@
 
 # Clone the repository
 
-`git clone https://github.com/UMDhodi/bose-pro-3D-website.git`
+`git clone https://github.com/UMDhodi/Voidblossom.git`
 
 `cd bose-pro-3D-website`
 
